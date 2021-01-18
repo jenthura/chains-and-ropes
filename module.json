@@ -4,5 +4,6 @@
   "description": "Module for the Foundry Virtual Tabletop framework that adds chains and ropes linked to tokens.",
   "author": "Chatchawan",
   "version": "1.0.0",
-	"minimumCoreVersion": "0.7.9"
+	"minimumCoreVersion": "0.7.9",
+	"manifest": "https://github.com/jenthura/chains-and-ropes/blob/master/module.json"
 }
