@@ -1,7 +1,7 @@
 {
-  "name": "module-boilerplate",
-  "title": "Module Boilerplate",
-  "description": "Module boilerplate for the Foundry Virtual Tabletop framework.",
+  "name": "chains-and-ropes",
+  "title": "Chains and Ropes",
+  "description": "Module for the Foundry Virtual Tabletop framework that adds chains and ropes linked to tokens.",
   "author": "Chatchawan",
   "version": "1.0.0",
 	"minimumCoreVersion": "0.7.9",
