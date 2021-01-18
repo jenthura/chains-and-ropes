@@ -5,5 +5,7 @@
   "author": "Chatchawan",
 	"version": "1.0.0",
 	"minimumCoreVersion": "0.7.9",
-	"manifest": "https://raw.githubusercontent.com/jenthura/chains-and-ropes/master/module.json"
+	"manifest": "https://raw.githubusercontent.com/jenthura/chains-and-ropes/master/module.json",
+	"url": "https://github.com/jenthura/chains-and-ropes",
+	"download": "https://github.com/jenthura/chains-and-ropes/archive/master.zip"
 }
