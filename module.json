@@ -4,8 +4,5 @@
   "description": "Module for the Foundry Virtual Tabletop framework that adds chains and ropes linked to tokens.",
   "author": "Chatchawan",
   "version": "1.0.0",
-	"minimumCoreVersion": "0.7.9",
-	"scripts": [
-		"scripts/helloWorld.js"
-	]
+	"minimumCoreVersion": "0.7.9"
 }
